@@ -4,7 +4,7 @@ tags: freud
 
 J'ai rencontré mon psychanalyste. Il s'est contenté d'hoché la tête. Je ne sais pas pourquoi, mais je suis sûre qu'il sait à quel point je suis névrosée.
 
-Votre niveau de faim est de [+ faim +].
+Votre niveau de faim est de [+ faim : niveau_faim +].
 
 - @manger : Manger un morceau
 - @jeuner : Jeûner comme un ascète
