@@ -10,4 +10,4 @@ Cette nuit-là j'ai fait un rêve. Je jouais au polo sur une tortue. Maman m'a t
 view-if: connaissance_carte !="vue"
 on-arrival: connaissance_carte = "vue"
 
-C'est la carte d'une ville et de ses environs.Vous remarquez qu'un **passage secret**. Il conduit directement à un chapiteau!
+C'est la carte d'une ville et de ses environs.Vous remarquez un **passage secret**. Vous ignorez où il conduit. Il vous propose un chemin, c'est mieux que tout ce que votre psychanalyste ne vous a jamais offert. Le symbole d'une **clé** est dessiné juste à côté du passage.
