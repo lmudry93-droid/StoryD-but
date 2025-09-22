@@ -21,7 +21,7 @@ Vous mangez un bout de chocolat. Le sucre monte gentiment au cerveau. Cela vous 
 @jeuner
 new-page: false
 choose-if: faim < 5
-unavailable-subtitle: Vous avez trop faim, manger est irrépressible 
+unavailable-subtitle: Manger est irrépressible
 on-departure: faim += 1
 go-to: @fin-activite
 
