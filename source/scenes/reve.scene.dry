@@ -2,4 +2,12 @@ Title: Rêve
 new-page: true
 tags: freud
 
-Cette nuit-là j'ai fait un rêve. Je jouais au polo sur une tortue.
+Cette nuit-là j'ai fait un rêve. Je jouais au polo sur une tortue. Maman m'a tendu une carte.
+
+-@examiner_carte: Examiner la carte
+
+@examiner_carte
+view-if: connaissance_carte !="vue"
+on-arrival: connaissance_carte = "vue"
+
+C'est la carte d'une ville et de ses environs.Vous remarquez qu'un **passage secret**. Il conduit directement à un chapiteau!
