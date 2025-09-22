@@ -12,7 +12,7 @@ Votre niveau de faim est de [+ faim +].
 @manger
 new-page: false
 choose-if: faim > 0
-unavailable-subtitle: Vous n'avez pas faim.
+unavailable-subtitle: Vous n'avez pas faim
 on-departure: faim -= 1
 go-to: @fin-activite
 
@@ -21,9 +21,9 @@ Vous mangez un bout de chocolat. Le sucre monte gentiment au cerveau. Cela vous 
 @jeuner
 new-page: false
 choose-if: faim < 5
-unavailable-subtitle: Vous avez trop faim pour jeûner. Manger est irrépressible. 
+unavailable-subtitle: Vous avez trop faim, manger est irrépressible 
 on-departure: faim += 1
-go-to: @fim-activite
+go-to: @fin-activite
 
 Vous jeûner en regardant votre barre de choc. 
 Cela vous a donné un peu faim.
