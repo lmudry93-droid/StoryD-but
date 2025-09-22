@@ -6,8 +6,8 @@ J'ai rencontré mon psychanalyste. Il s'est contenté d'hoché la tête. Je ne s
 
 Votre niveau de faim est de [+ faim +].
 
-- @manger : Manger un morceau
-- @jeuner : Jeûner comme un ascète
+-@manger: Manger un morceau
+-@jeuner: Jeûner comme un ascète
 
 @manger
 new-page: false
@@ -29,4 +29,4 @@ Vous jeûner en regardant votre barre de choc.
 Cela vous a donné un peu faim.
 
 @fin-activite
-- @complexe : Continue...
+-@complexe : Continue...
