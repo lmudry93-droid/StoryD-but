@@ -1,0 +1,5 @@
+name: faim
+initial: 3
+min: 0
+max: 5
+
